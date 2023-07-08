@@ -1,0 +1,369 @@
+#main {
+    height: 2002px;
+    width: 1400px;
+}
+#head {
+    height: 100px;
+    width: 1335px;
+    background-color: black;
+}
+.webname {
+    height: 100px;
+    width: 667px;
+    float: left;
+}
+.sitename {
+    color: green;
+    padding-left: 10px;
+    line-height: 55px;
+}
+.nav {
+    height: 100px;
+    width: 667px;
+    padding-left: px;
+    float: left;
+}
+.home:hover {
+    border: 2px solid green;
+    background-color: green;
+    border-radius: 5px;
+    padding: 5px;
+}
+li {
+    float: left;
+    list-style-type: none;
+    color: white;
+    padding-right: 10px;
+    line-height: 50px;
+}
+.home {
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+}
+#banner {
+    height: 500px;
+    width: 1335px;
+    background-color: green;
+    float: left;
+}
+.banner_h1 {
+    color: white;
+    margin-left: 100px;
+    font-size: 60px
+}
+.img_one{
+    height: 200px;
+    width: 400px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 25px;
+    border-width: 5px 0px 5px 5px;
+    border-style: solid;
+    border-color: lightgreen;
+}
+.img_two{
+    height: 250px;
+    width: 400px;
+    float: left;
+    border: 10px solid lightgreen;
+}
+.img_three{
+    height: 200px;
+    width: 400px;
+    float: left;
+    margin-right: 50px;
+    margin-top: 25px;
+    border-width: 5px 5px 5px 0px;
+    border-style: solid;
+    border-color: lightgreen;
+}
+#first_section {
+    height: 350px;
+    width: 1335px;
+    float: left;
+}
+.support {
+    height: 300px;
+    width: 333.75px;
+    float: left;
+    margin-top: 45px;
+}
+.pride_folio {
+    height: 300px;
+    width: 330.75px;
+    float: left;
+    border-left: 1px solid grey;
+    margin-top: 45px;
+}
+.time_respect {
+    height: 300px;
+    width: 333.75px;
+    float: left;
+    border-left: 1px solid grey;
+    margin-top: 45px;
+}
+.best_quality {
+    height: 300px;
+    width: 333.75px;
+    margin-top: 45px;
+    float: left;
+    border-left: 1px solid grey;
+}
+.h2_first {
+    text-align: center;
+    color: green;
+}
+.p_first {
+    text-align: left;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.button {
+    border: 2px solid green;
+    background-color: green;
+    border-radius: 10px;
+    padding: 8px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+#second_section {
+    height: 500px;
+    width: 1335px;
+    float: left;
+}
+.a {
+    height: 350px;
+    width: 667.5px;
+    float: left;
+}
+.h2i {
+    font-size: 30px;
+    padding-left: 30px;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pi {
+    font-size: 15px;
+    padding-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h2ii {
+    font-size: 30px;
+    padding-left: 30px;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pii {
+    font-size: 15px;
+    padding-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.b {
+    height: 350px;
+    width: 667.5px;
+    float: left;
+}
+.h2b {
+    font-size: 30px;
+    padding-left: 30px;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pb {
+    font-size: 15px;
+    padding-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img_b {
+    height: 100px;
+    width: 100px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.imgs {
+    float: left;
+}
+.img_name {
+    text-align: center;
+}
+.c {
+    height: 150px;
+    width: 1335px;
+    float: left;
+}
+.box {
+    height: 70px;
+    width: 1300px;
+    background-color: green;
+    margin: 40px 17.5px;
+    float: left;
+}
+.logo_a {
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 17px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: left;
+}
+.cont {
+    height: 70px;
+    width: 950px;
+    float: left;    
+}
+.text {
+    color: white;
+}
+.one_word {
+    color: white;
+    text-decoration: underline;
+}
+.ext_text {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.margin {
+    margin-left: 20px;
+}
+#third_section {
+    height: 500px;
+    width: 1335px;
+    background-color: black;
+    float: left;
+    border-bottom: 2px solid darkslategray;
+}
+.left {
+    height: 500px;
+    width: 445px;
+    float: left;
+}
+.left_top {
+    height: 100px;
+    width: 405px;
+    margin-left: 20px;
+    border-bottom: 2px solid darkslategray;
+}
+.send_button {
+    border: 1px solid green;
+    border-radius: 5px;
+    background-color: green;
+    padding: 5px;
+    color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.input_margin {
+    margin-left: 60px;
+    margin-right: 130px;
+}
+::placeholder {
+    color: green;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+textarea {
+    background-color: black;
+}
+input {
+    background-color: black;
+    height: 30px;
+    width: 310px;
+}
+.center {
+    height: 500px;
+    width: 445px;
+    float: left;
+}
+.center_top {
+    height: 100px;
+    width: 405px;
+    border-bottom: 2px solid darkslategray;
+}
+.white_text {
+    margin-left: 25px;
+    color: white;
+}
+.green_text {
+    margin-left: 25px;
+    color: green;
+}
+.right {
+    height: 500px;
+    width: 445px;
+    float: left;
+}
+.right_top {
+    height: 100px;
+    width: 405px;
+    margin-right: 20px;
+    border-bottom: 2px solid darkslategray;
+}
+.last_button {
+    background-color: green;
+    color: white;
+    border: 1px solid green;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 40px;
+    margin-left: 350px;
+}
+.h2_alltop {
+    color: green;
+    padding-left: 20px;
+    font-size: 35px;
+}
+.p_alltop {
+    padding-left: 20px;
+    color: white;
+}
+#fotter {
+    height: 50px;
+    width: 1335px;
+    background-color: black;
+    float: left;
+    margin-top: 2px
+}
+.copy {
+    height: 50px;
+    width: 667.5px;
+    float: left;
+}
+.ft_nav {
+    height: 50px;
+    width: 667.5px;
+    float: left;   
+}
+.bd {
+    color: white;
+    border-right: 2px solid white;
+    float: left;
+    margin-right: 5px;
+    padding-right: 5px;
+    text-decoration: none;
+}
+.x {
+    color: white;
+    float: left;
+    text-decoration: none;
+}
+.y {
+    color: white;
+    border-right: 2px solid white;
+    float: left;
+    margin-right: 5px;
+    padding-right: 5px;
+    margin-left: 350px;
+    text-decoration: none;
+}
+.bd:hover {
+    color: green;
+}
+.x:hover {
+    color: green;
+}
+.y:hover {
+    color: green;
+}
